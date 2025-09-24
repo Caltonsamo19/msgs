@@ -43,7 +43,7 @@ const GRUPOS = {
         nome: 'MNG Megas'
     },
      'acessivel': {
-        id: '120363023150137820@g.us',
+        id: '120363020570328377@g.us',
         nome: 'NET VODACOM ACESSÍVEL'
     }
 };
@@ -439,5 +439,6 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
