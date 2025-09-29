@@ -45,6 +45,10 @@ const GRUPOS = {
      'acessivel': {
         id: '120363020570328377@g.us',
         nome: 'NET VODACOM ACESSÍVEL'
+    },
+    'KA-Net': {
+        id: '120363402302455817@g.us',
+        nome: 'Ka-Net'
     }
 };
 
@@ -439,6 +443,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
