@@ -49,6 +49,10 @@ const GRUPOS = {
     'KA-Net': {
         id: '120363402302455817@g.us',
         nome: 'Ka-Net'
+    },
+    'V2 Megabytes NetConnect': {
+        id: '258876291014-1634575097@g.us',
+        nome: 'V2 Megabytes NetConnect'
     }
 };
 
@@ -443,6 +447,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
