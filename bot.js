@@ -61,6 +61,10 @@ const GRUPOS = {
     'NETPROMOÇÃO': {
         id: '120363402609218031@g.us',
         nome: 'NET PROMOÇÃO 17MT V1'
+    },
+    'MEGAPROMOÇÃO': {
+        id: '120363419414311700@g.us',
+        nome: 'NET PROMO'
     }
 };
 
@@ -455,6 +459,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
