@@ -53,6 +53,14 @@ const GRUPOS = {
     'V2 Megabytes NetConnect': {
         id: '258876291014-1634575097@g.us',
         nome: 'V2 Megabytes NetConnect'
+    },
+    'ASTRO': {
+        id: '120363043964227338@g.us',
+        nome: 'ASTRO BOOSTING I'
+    },
+    'NETPROMOÇÃO': {
+        id: '120363402609218031@g.us',
+        nome: 'NET PROMOÇÃO 17MT V1'
     }
 };
 
@@ -447,6 +455,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
