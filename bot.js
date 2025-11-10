@@ -69,6 +69,10 @@ const GRUPOS = {
     'MEgas 18MT': {
         id: '120363419388089635@g.us',
         nome: 'NETPROMO18'
+    },
+    'ShopNet': {
+        id: '120363401912741383@g.us',
+        nome: 'ShopNet'
     }
 };
 
@@ -463,6 +467,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
