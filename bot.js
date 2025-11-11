@@ -73,6 +73,10 @@ const GRUPOS = {
     'ShopNet': {
         id: '120363401912741383@g.us',
         nome: 'ShopNet'
+    },
+    'MozStreaming MB': {
+        id: '120363420106859235@g.us',
+        nome: 'MozStreaming MB’s v3*'
     }
 };
 
@@ -467,6 +471,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
