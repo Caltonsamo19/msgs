@@ -77,6 +77,14 @@ const GRUPOS = {
     'MozStreaming MB': {
         id: '120363420106859235@g.us',
         nome: 'MozStreaming MB’s v3*'
+    },
+    'DKNET': {
+        id: '258843851507-1502735322@g.us',
+        nome: 'DKNET'
+    },
+    'Revendedores Auto': {
+        id: '120363422334163033@g.us',
+        nome: 'Revendedores Auto'
     }
 };
 
@@ -471,6 +479,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
