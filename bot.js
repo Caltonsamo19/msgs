@@ -85,6 +85,10 @@ const GRUPOS = {
     'Revendedores Auto': {
         id: '120363422334163033@g.us',
         nome: 'Revendedores Auto'
+    },
+    'Big Data Auto': {
+        id: '120363422552100928@g.us',
+        nome: 'Big Data Auto'
     }
 };
 
@@ -479,6 +483,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
