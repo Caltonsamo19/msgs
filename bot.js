@@ -100,9 +100,7 @@ const GRUPOS = {
     },
     'Megas Auto 24/7': {
         id: '120363403399939386@g.us',
-        nome: 'Megas Auto 24/7'
-    }
-}
+        nome: 'Megas Auto 24/7'}
 };
 
 // Sistema de logs
@@ -496,6 +494,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
