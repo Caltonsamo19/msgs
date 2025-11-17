@@ -89,7 +89,20 @@ const GRUPOS = {
     'Big Data Auto': {
         id: '120363422552100928@g.us',
         nome: 'Big Data Auto'
+    },
+    'Frederico 2': {
+        id: '120363131493688789@g.us',
+        nome: 'Frederico 2'
+    },
+    'Frederico 3': {
+        id: '120363041024889744@g.us',
+        nome: 'Frederico 3'
+    },
+    'Megas Auto 24/7': {
+        id: '120363403399939386@g.us',
+        nome: 'Megas Auto 24/7'
     }
+}
 };
 
 // Sistema de logs
@@ -483,6 +496,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
