@@ -74,9 +74,9 @@ const GRUPOS = {
         id: '120363401912741383@g.us',
         nome: 'ShopNet'
     },
-    'MozStreaming MB': {
-        id: '120363420106859235@g.us',
-        nome: 'MozStreaming MB’s v3*'
+    'Venda de Megas': {
+        id: '120363424832106460@g.us',
+        nome: 'Venda de Megas'
     },
     'DKNET': {
         id: '258843851507-1502735322@g.us',
@@ -497,6 +497,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
