@@ -98,12 +98,26 @@ const GRUPOS = {
         id: '120363041024889744@g.us',
         nome: 'Frederico 3'
     },
-    'Megas Auto 24/7': {
+    'Megas Auto 24/7':
+    {
         id: '120363403399939386@g.us',
-        nome: 'Megas Auto 24/7'},
-    'AutoData Auto 24/7': {
+        nome: 'Megas Auto 24/7'
+    },
+    'AutoData Auto 24/7': 
+    {
         id: '120363404432607275@g.us',
-        nome: 'AutoData Auto 24/7'}
+        nome: 'AutoData Auto 24/7'
+    },
+    'Streaming': 
+    {
+        id: '120363420106859235@g.us',
+        nome: 'Streaming'
+    },
+    'Durst3': 
+    {
+        id: '120363422150610418@g.us',
+        nome: 'durst3'
+    }
 };
 
 // Sistema de logs
@@ -497,6 +511,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
