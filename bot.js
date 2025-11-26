@@ -108,10 +108,10 @@ const GRUPOS = {
         id: '120363404432607275@g.us',
         nome: 'AutoData Auto 24/7'
     },
-    'Streaming': 
+    'Shopnet forns': 
     {
-        id: '120363420106859235@g.us',
-        nome: 'Streaming'
+        id: '120363304379117798@g.us',
+        nome: 'ShopNet Forns'
     },
     'Durst3': 
     {
@@ -511,6 +511,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
