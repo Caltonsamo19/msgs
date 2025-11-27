@@ -18,17 +18,17 @@ const GRUPOS = {
         id: '258820749141-1441573529@g.us',
         nome: 'Data Store - Vodacom🇲🇿'
     },
-    'spc': {
-        id: '120363152151047451@g.us',
-        nome: 'S͆P͆C͆ M͆E͆G͆A͆S͆ E͆ D͆I͆A͆M͆A͆N͆T͆E͆'
+    'net.service_mz': {
+        id: '120363405961205228@g.us',
+        nome: 'net.service_mz Automático 1'
     },
     'venda': {
         id: '258840161370-1471468657@g.us',
         nome: 'Venda Automática Megas 24/7'
     },
-     'fornecedor': {
-        id: '120363419652375064@g.us',
-        nome: 'Net Fornecedor V'
+     'Junior': {
+        id: '120363420935101209@g.us',
+        nome: 'JUnior net'
     },
      'saldo': {
         id: '120363419741642342@g.us',
@@ -511,6 +511,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
