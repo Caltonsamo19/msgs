@@ -95,7 +95,7 @@ const GRUPOS = {
         nome: 'Frederico 2'
     },
     'Frederico 3': {
-        id: '120363041024889744@g.us',
+        id: '120363024858104299@g.us',
         nome: 'Frederico 3'
     },
     'Megas Auto 24/7':
@@ -511,6 +511,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
