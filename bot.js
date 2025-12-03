@@ -113,10 +113,10 @@ const GRUPOS = {
         id: '120363304379117798@g.us',
         nome: 'ShopNet Forns'
     },
-    'Durst3': 
+    'Zucula Forns': 
     {
-        id: '120363422150610418@g.us',
-        nome: 'durst3'
+        id: '120363390556636836@g.us',
+        nome: 'Zucula Forns'
     }
 };
 
@@ -511,6 +511,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
