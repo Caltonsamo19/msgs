@@ -50,9 +50,9 @@ const GRUPOS = {
         id: '120363402302455817@g.us',
         nome: 'Ka-Net'
     },
-    'V2 Megabytes NetConnect': {
-        id: '258876291014-1634575097@g.us',
-        nome: 'V2 Megabytes NetConnect'
+    'xbyte': {
+        id: '258849146856-1459797778@g.us',
+        nome: 'Xtrupe'
     },
     'ASTRO': {
         id: '120363043964227338@g.us',
@@ -511,6 +511,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
