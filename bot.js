@@ -22,9 +22,9 @@ const GRUPOS = {
         id: '120363405961205228@g.us',
         nome: 'net.service_mz Automático 1'
     },
-    'venda': {
-        id: '258840161370-1471468657@g.us',
-        nome: 'Venda Automática Megas 24/7'
+    'fiel': {
+        id: '120363309897537629@g.us',
+        nome: 'fiel'
     },
      'Junior': {
         id: '120363420935101209@g.us',
@@ -511,6 +511,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
