@@ -122,6 +122,16 @@ const GRUPOS = {
     {
         id: '120363421401975543@g.us',
         nome: 'Prime Net'
+    },
+    'SeRevendedores': 
+    {
+        id: '120363420585457521@g.us',
+        nome: 'SóRevendedores'
+    },
+    'Stock Vip': 
+    {
+        id: '120363404466236481@g.us',
+        nome: 'Stock Vip'
     }
 };
 
@@ -516,6 +526,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
