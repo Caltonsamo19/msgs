@@ -140,7 +140,7 @@ const GRUPOS = {
     },
     'Camerson Revs': 
     {
-        id: '120363319626927544@g.us',
+        id: '120363319624927544@g.us',
         nome: 'Camerson Revs'
     },
     'dhruv2': 
@@ -541,6 +541,7 @@ process.on('uncaughtException', (error) => {
 // Iniciar o bot
 
 iniciarBot();
+
 
 
 
